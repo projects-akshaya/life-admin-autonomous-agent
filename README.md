@@ -1,4 +1,4 @@
-# Life-Admin Autonomous Concierge Agent (Google ADK + Gemini)
+# Brain-dump to game plan Agent (Google ADK + Gemini)
 
 A fully deterministic, reliable **Life-Admin Concierge Agent** built using the **Google Agent Development Kit (ADK)** and **Gemini**.
 
